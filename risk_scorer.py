@@ -1,3 +1,5 @@
+#ordenar por prioridad los casos de adopcion segun riesgo
+# evaluar dependiendo diferentes factores de riesgo
 
 class RiskScorer:
     def __init__(self, rules=None):

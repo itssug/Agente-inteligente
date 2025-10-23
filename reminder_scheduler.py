@@ -1,4 +1,4 @@
-
+# gestionar y enviar recordatorios automáticos
 from datetime import datetime
 import uuid
 

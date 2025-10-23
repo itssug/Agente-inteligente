@@ -1,4 +1,4 @@
-
+#predice el tiempo estimado que tardará el proceso
 class TimePredictor:
     def __init__(self):
         self.coeffs = None
