@@ -8,7 +8,7 @@ def normalize_text(t):
     return [w for w in t.split() if len(w) > 1]
 
 class ChatbotFAQ:
-    def __init__(self, faq_pairs=None):
+    def __init__(self, faq_pairs=None): #entranmiento incial
         self.faq = []
         if faq_pairs:
             for q,a in faq_pairs:
