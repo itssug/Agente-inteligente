@@ -1,4 +1,4 @@
-# reminder_scheduler.py
+
 from datetime import datetime
 import uuid
 

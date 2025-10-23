@@ -1,4 +1,4 @@
-# document_classifier.py
+
 import re
 from collections import Counter, defaultdict
 import math

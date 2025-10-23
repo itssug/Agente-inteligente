@@ -1,4 +1,4 @@
-# time_predictor.py
+
 class TimePredictor:
     def __init__(self):
         self.coeffs = None
